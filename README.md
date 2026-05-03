@@ -1,4 +1,5 @@
-🧾HR-Analytics-project-MS-Excel
+
+ <h1>🧾HR-Analytics-project-MS-Excel</h1>
 
 📌<b>Overview:</b><br>
 The project presents an attrition analysis conducted in <strong>Microsoft Excel (2021)</strong>. To create an interactive <strong>HR Analytics dashboard</strong>, <strong>pivot tables</strong> were developed using the available, pre-cleaned dataset, along with various <strong>pivot charts</strong> and <strong>slicers</strong> for effective data filtering. The analysis provided valuable insights, enabling the organization to make more informed, data-driven decisions.
@@ -9,7 +10,7 @@ Attrition is one of the challenges organizations face, and its negative effects 
 
 <hr>
 
-<h4>📈<b>Key KPIs</h4></b> <br>
+<h4>📈<b>Key KPIs</h4></b></h4> <br>
 
 <b>Total Employees:</b> 1,470 <br>
 <b>Active Employees:</b> 1,233 <br>
