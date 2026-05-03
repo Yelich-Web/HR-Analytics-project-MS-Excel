@@ -4,6 +4,10 @@
 The project presents an attrition analysis conducted in <strong>Microsoft Excel (2021)</strong>. To create an interactive <strong>HR Analytics dashboard</strong>, <strong>pivot tables</strong> were developed using the available, pre-cleaned dataset, along with various <strong>pivot charts</strong> and <strong>slicers</strong> for effective data filtering. The analysis provided valuable insights, enabling the organization to make more informed, data-driven decisions.
 <hr>
 
+<b>Business problem:</b>Attrition is one of the challenges organizations face, and its negative effects can significantly impact their performance. With this in mind, it is necessary to take steps to reduce it or keep it at an acceptable level.”<br>
+
+<hr>
+
 <h4>📈<b>Key KPIs</h4></b> <br>
 
 <b>Total Employees:</b> 1,470 <br>
@@ -19,7 +23,9 @@ The project presents an attrition analysis conducted in <strong>Microsoft Excel 
 <b>Department:</b> Research & Development (56.12%) <br>
 <b>Age Group:</b> 24–34 years (112)<br>
 <b>Marital Status:</b> Married (673)<br>
+
 <hr>
+
 <b>Dashboard</b><br>
 <img src="https://github.com/Yelich-Web/HR-Analytics-project-MS-Excel/blob/main/HR_Dashboard_image.jpg">
 
