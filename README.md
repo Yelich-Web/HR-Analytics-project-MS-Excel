@@ -17,6 +17,8 @@ Attrition is one of the challenges organizations face, and its negative effects 
 <b>Total Attrition:</b> 237 <br>
 <b>Attrition Rate:</b> 16.12% <br>
 
+<hr>
+
 🔍<b>Attrition Breakdown</b><br>
 
 <b>Gender:</b> Male (150), Female (87) <br>
