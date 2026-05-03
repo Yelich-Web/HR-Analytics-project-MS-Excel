@@ -24,7 +24,8 @@
 
 <hr>
 
-<b>Conclusión: Based on the given results, the organization can plan, improve, and implement strategies aimed at reducing attrition. These strategies should be focused on younger male employees working as laboratory technicians, while taking into account their marital status. Given that an attrition rate of 16.12% is not considered high, these efforts should be undertaken as a preventive measure.:</b>
+<b>Conclusion:</b> <br>
+Based on the given results, the organization can plan, improve, and implement strategies aimed at reducing attrition. These strategies should be focused on younger male employees working as laboratory technicians, while taking into account their marital status. Given that an attrition rate of 16.12% is not considered high, these efforts should be undertaken as a preventive measure.
 
 
 🔗<b> References:</b> <br>
