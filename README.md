@@ -20,6 +20,7 @@
 <b>Marital Status:</b> Married (673)<br>
 <hr>
 <b>Dashboard</b><br>
+<img src="https://github.com/Yelich-Web/HR-Analytics-project-MS-Excel/blob/main/HR_Dashboard_image.jpg">
 
 <hr>
 
