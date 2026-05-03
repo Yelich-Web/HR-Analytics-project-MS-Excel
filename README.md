@@ -1,6 +1,7 @@
 🧾<h1> HR-Analytics-project-MS-Excel </h1>
 
-📌<b>Overview:</b> The project presents an attrition analysis conducted in <strong>Microsoft Excel (2021)</strong>. To create an interactive <strong>HR Analytics dashboard</strong>, <strong>pivot tables</strong> were developed using the available, pre-cleaned dataset, along with various <strong>pivot charts</strong> and <strong>slicers</strong> for effective data filtering. The analysis provided valuable insights, enabling the organization to make more informed, data-driven decisions.
+📌<b>Overview:</b><br>
+The project presents an attrition analysis conducted in <strong>Microsoft Excel (2021)</strong>. To create an interactive <strong>HR Analytics dashboard</strong>, <strong>pivot tables</strong> were developed using the available, pre-cleaned dataset, along with various <strong>pivot charts</strong> and <strong>slicers</strong> for effective data filtering. The analysis provided valuable insights, enabling the organization to make more informed, data-driven decisions.
 <hr>
 
 <h4>📈<b>Key KPIs</h4></b> <br>
@@ -26,6 +27,8 @@
 
 <b>Conclusion:</b> <br>
 Based on the given results, the organization can plan, improve, and implement strategies aimed at reducing attrition. These strategies should be focused on younger male employees working as laboratory technicians, while taking into account their marital status. Given that an attrition rate of 16.12% is not considered high, these efforts should be undertaken as a preventive measure.
+
+<hr>
 
 
 🔗<b> References:</b> <br>
