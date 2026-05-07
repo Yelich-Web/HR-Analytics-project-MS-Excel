@@ -11,13 +11,13 @@
       <a href="#attrition">4. Attrition Breakdown</a>
     </li>
      <li>
-      <a href="#dashboard">5.Dashboard</a>
+      <a href="#dashboard">5. Dashboard</a>
     </li>
       <li>
-      <a href="#conclusion">6.Conclusion</a>
+      <a href="#conclusion">6. Conclusion</a>
     </li>
     <li>
-      <a href="#references">6.References</a>
+      <a href="#references">7. References</a>
     </li>
   </ul>
 
