@@ -21,6 +21,8 @@
     </li>
   </ul>
 
+  
+
 <h4 id="overview">📌<b>Overview:</b></h4><br>
 
 The project presents an attrition analysis conducted in <strong>Microsoft Excel (2021)</strong>. To create an interactive <strong>HR Analytics dashboard</strong>, <strong>pivot tables</strong> were developed using the available, pre-cleaned dataset, along with various <strong>pivot charts</strong> and <strong>slicers</strong> for effective data filtering. The analysis provided valuable insights, enabling the organization to make more informed, data-driven decisions.
